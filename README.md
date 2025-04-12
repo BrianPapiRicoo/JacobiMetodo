@@ -14,4 +14,13 @@ El método de Jacobi es un algoritmo iterativo utilizado para encontrar solucion
 - Muestra resultados iteración por iteración
 
 ## 🚀 Cómo usarlo
+Escribir en la terminal de bash => make run
 
+## 🧾 Menú del programa
+![Menú principal](Menu.png)
+
+## 📥 Ejemplo de entrada
+![Entrada del usuario](Input.png)
+
+## 📤 Resultado de salida
+![Resultado del programa](Output.png)
